@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="delivery">
+    <output-path>$PROJECT_DIR$/out/artifacts/delivery</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="JavaImageManipulation:jar" />
+      <element id="directory" name="images">
+        <element id="file-copy" path="$PROJECT_DIR$/JavaImageManipulation/exomars.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/JavaImageManipulation/light.png" />
+        <element id="file-copy" path="$PROJECT_DIR$/JavaImageManipulation/monet.jpg" />
+        <element id="file-copy" path="$PROJECT_DIR$/JavaImageManipulation/portrait.jpg" />
+      </element>
+    </root>
+  </artifact>
+</component>
